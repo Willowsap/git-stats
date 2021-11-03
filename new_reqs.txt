@@ -1,0 +1,10 @@
+Program to get and write raw data about PRs, Issues, and Comments
+format:
+
+type=<PRs | Issues | Comments>
+repo=<repo url>
+gitkey=<gitkey>
+last_updated=<date>
+[
+JSON data about type from repo
+]
